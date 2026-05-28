@@ -26,3 +26,7 @@ Then add a reference line to `~/.claude/CLAUDE.md`. Each skill's page has the ex
 Every skill has a matching `-installer.md` file. Open it → Cmd+A / Ctrl+A → Copy → paste into Claude → send: **install this**
 
 ---
+
+⭐ Star this repo once you've installed a skill — helps track adoption.
+
+---
